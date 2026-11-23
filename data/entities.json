@@ -1,0 +1,3183 @@
+[
+ {
+  "id": "item_acid",
+  "name": "Acid",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_adrenaline",
+  "name": "Adrenaline",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_alien_baby",
+  "name": "Alien Baby",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_alien_eyes",
+  "name": "Alien Eyes",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_alien_magic",
+  "name": "Alien Magic",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_alien_tongue",
+  "name": "Alien Tongue",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_alien_worm",
+  "name": "Alien Worm",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_alloy",
+  "name": "Alloy",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_anvil",
+  "name": "Anvil",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_ashes",
+  "name": "Ashes",
+  "kind": "item",
+  "tier": 4,
+  "dlc": true
+ },
+ {
+  "id": "item_axolotl",
+  "name": "Axolotl",
+  "kind": "item",
+  "tier": 4,
+  "dlc": true
+ },
+ {
+  "id": "item_baby_elephant",
+  "name": "Baby Elephant",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_baby_gecko",
+  "name": "Baby Gecko",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_baby_squid",
+  "name": "Baby Squid",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_baby_with_a_beard",
+  "name": "Baby with a Beard",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_bag",
+  "name": "Bag",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_bait",
+  "name": "Bait",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_ball_and_chain",
+  "name": "Ball and Chain",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_bandana",
+  "name": "Bandana",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_banner",
+  "name": "Banner",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_barnacle",
+  "name": "Barnacle",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_barricade",
+  "name": "Barricade",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_bat",
+  "name": "Bat",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_bean_teacher",
+  "name": "Bean Teacher",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_beanie",
+  "name": "Beanie",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_big_arms",
+  "name": "Big Arms",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_black_belt",
+  "name": "Black Belt",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_black_flag",
+  "name": "Black Flag",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_blindfold",
+  "name": "Blindfold",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_blood_donation",
+  "name": "Blood Donation",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_blood_leech",
+  "name": "Blood Leech",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_bloody_hand",
+  "name": "Bloody Hand",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_boiling_water",
+  "name": "Boiling Water",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_bone_dice",
+  "name": "Bone Dice",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_book",
+  "name": "Book",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_bowler_hat",
+  "name": "Bowler Hat",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_boxing_glove",
+  "name": "Boxing Glove",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_broken_mouth",
+  "name": "Broken Mouth",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_butterfly",
+  "name": "Butterfly",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_cake",
+  "name": "Cake",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_campfire",
+  "name": "Campfire",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_candle",
+  "name": "Candle",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_cape",
+  "name": "Cape",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_cauldron",
+  "name": "Cauldron",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_celery_tea",
+  "name": "Celery Tea",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_chameleon",
+  "name": "Chameleon",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_charcoal",
+  "name": "Charcoal",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_claw_tree",
+  "name": "Claw Tree",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_clockwork_wasp",
+  "name": "Clockwork Wasp",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_clover",
+  "name": "Clover",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_candy_bag",
+  "name": "Candy Bag",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_coffee",
+  "name": "Coffee",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_cog",
+  "name": "Cog",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_coil",
+  "name": "Coil",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_community_support",
+  "name": "Community Support",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_compass",
+  "name": "Compass",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_coral",
+  "name": "Coral",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_corrupted_shard",
+  "name": "Corrupted Shard",
+  "kind": "item",
+  "tier": 1,
+  "dlc": true
+ },
+ {
+  "id": "item_coupon",
+  "name": "Coupon",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_crown",
+  "name": "Crown",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_crystal",
+  "name": "Crystal",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_cute_monkey",
+  "name": "Cute Monkey",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_cyberball",
+  "name": "Cyberball",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_cyclops_worm",
+  "name": "Cyclops Worm",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_dangerous_bunny",
+  "name": "Dangerous Bunny",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_decomposing_flesh",
+  "name": "Decomposing Flesh",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_defective_steroids",
+  "name": "Defective Steroids",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_diploma",
+  "name": "Diploma",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_duct_tape",
+  "name": "Duct Tape",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_dynamite",
+  "name": "Dynamite",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_energy_bracelet",
+  "name": "Energy Bracelet",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_estys_couch",
+  "name": "Esty's Couch",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_exoskeleton",
+  "name": "Exoskeleton",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_explosive_shells",
+  "name": "Explosive Shells",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_explosive_turret",
+  "name": "Explosive Turret",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_extra_stomach",
+  "name": "Extra Stomach",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_eyepatch",
+  "name": "Eyepatch",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_eyes_surgery",
+  "name": "Eyes Surgery",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_fertilizer",
+  "name": "Fertilizer",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_fairy",
+  "name": "Fairy",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_feather",
+  "name": "Feather",
+  "kind": "item",
+  "tier": 1,
+  "dlc": true
+ },
+ {
+  "id": "item_fin",
+  "name": "Fin",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_fish_hook",
+  "name": "Fish Hook",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_focus",
+  "name": "Focus",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_fresh_meat",
+  "name": "Fresh Meat",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_fried_rice",
+  "name": "Fried Rice",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_frozen_heart",
+  "name": "Frozen Heart",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_fruit_basket",
+  "name": "Fruit Basket",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_fuel_tank",
+  "name": "Fuel Tank",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_gambling_token",
+  "name": "Gambling Token",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_garden",
+  "name": "Garden",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_gentle_alien",
+  "name": "Gentle Alien",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_ghost_outfit",
+  "name": "Ghost Outfit",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_giant_belt",
+  "name": "Giant Belt",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_glass_cannon",
+  "name": "Glass Cannon",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_glasses",
+  "name": "Glasses",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_gnome",
+  "name": "Gnome",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_goat_skull",
+  "name": "Goat Skull",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_gobblers_hat",
+  "name": "Gobbler's Hat",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_goblet",
+  "name": "Goblet",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_goldfish",
+  "name": "Goldfish",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_greek_fire",
+  "name": "Greek Fire",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_grinds_magical_leaf",
+  "name": "Grind's Magical Leaf",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_gummy_berserker",
+  "name": "Gummy Berserker",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_handcuffs",
+  "name": "Handcuffs",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_head_injury",
+  "name": "Head Injury",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_heavy_bullets",
+  "name": "Heavy Bullets",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_hedgehog",
+  "name": "Hedgehog",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_helmet",
+  "name": "Helmet",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_honey",
+  "name": "Honey",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_hourglass",
+  "name": "Hourglass",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_hunting_trophy",
+  "name": "Hunting Trophy",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_ice_cube",
+  "name": "Ice Cube",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_improved_tools",
+  "name": "Improved Tools",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_incendiary_turret",
+  "name": "Incendiary Turret",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_injection",
+  "name": "Injection",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_insanity",
+  "name": "Insanity",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_jelly",
+  "name": "Jelly",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_jerky",
+  "name": "Jerky",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_jet_pack",
+  "name": "Jet Pack",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_knot",
+  "name": "Knot",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_krakens_eye",
+  "name": "Kraken's Eye",
+  "kind": "item",
+  "tier": 4,
+  "dlc": true
+ },
+ {
+  "id": "item_landmines",
+  "name": "Landmines",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_lantern",
+  "name": "Lantern",
+  "kind": "item",
+  "tier": 4,
+  "dlc": true
+ },
+ {
+  "id": "item_laser_turret",
+  "name": "Laser Turret",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_leather_vest",
+  "name": "Leather Vest",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_lemonade",
+  "name": "Lemonade",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_lens",
+  "name": "Lens",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_lighthouse",
+  "name": "Lighthouse",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_little_frog",
+  "name": "Little Frog",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_little_muscley_dude",
+  "name": "Little Muscley Dude",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_lost_duck",
+  "name": "Lost Duck",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_lucky_charm",
+  "name": "Lucky Charm",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_lucky_coin",
+  "name": "Lucky Coin",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_lure",
+  "name": "Lure",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_lumberjack_shirt",
+  "name": "Lumberjack Shirt",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_mammoth",
+  "name": "Mammoth",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_mastery",
+  "name": "Mastery",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_medal",
+  "name": "Medal",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_medical_turret",
+  "name": "Medical Turret",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_medikit",
+  "name": "Medikit",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_metal_detector",
+  "name": "Metal Detector",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_metal_plate",
+  "name": "Metal Plate",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_mirror",
+  "name": "Mirror",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_missile",
+  "name": "Missile",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_mouse",
+  "name": "Mouse",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_mushroom",
+  "name": "Mushroom",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_mutation",
+  "name": "Mutation",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_nail",
+  "name": "Nail",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_night_goggles",
+  "name": "Night Goggles",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_octopus",
+  "name": "Octopus",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_padding",
+  "name": "Padding",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_panda",
+  "name": "Panda",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_peaceful_bee",
+  "name": "Peaceful Bee",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_peacock",
+  "name": "Peacock",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_pearl",
+  "name": "Pearl",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_pencil",
+  "name": "Pencil",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_penguin",
+  "name": "Penguin",
+  "kind": "item",
+  "tier": 1,
+  "dlc": true
+ },
+ {
+  "id": "item_piggy_bank",
+  "name": "Piggy Bank",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_pile_of_books",
+  "name": "Pile of Books",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_plant",
+  "name": "Plant",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_plastic_explosive",
+  "name": "Plastic Explosive",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_poisonous_tonic",
+  "name": "Poisonous Tonic",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_pocket_factory",
+  "name": "Pocket Factory",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_potato",
+  "name": "Potato",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_power_generator",
+  "name": "Power Generator",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_propeller_hat",
+  "name": "Propeller Hat",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_pumpkin",
+  "name": "Pumpkin",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_recycling_machine",
+  "name": "Recycling Machine",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_regeneration_potion",
+  "name": "Regeneration Potion",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_reinforced_steel",
+  "name": "Reinforced Steel",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_retromations_hoodie",
+  "name": "Retromation's Hoodie",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_ricochet",
+  "name": "Ricochet",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_rip_and_tear",
+  "name": "Rip and Tear",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_riposte",
+  "name": "Riposte",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_ritual",
+  "name": "Ritual",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_robot_arm",
+  "name": "Robot Arm",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_sad_tomato",
+  "name": "Sad Tomato",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_saltwater",
+  "name": "Saltwater",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_scar",
+  "name": "Scar",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_scared_sausage",
+  "name": "Scared Sausage",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_scarf",
+  "name": "Scarf",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_scope",
+  "name": "Scope",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_seashell",
+  "name": "Seashell",
+  "kind": "item",
+  "tier": 4,
+  "dlc": true
+ },
+ {
+  "id": "item_shackles",
+  "name": "Shackles",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_shady_potion",
+  "name": "Shady Potion",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_sharp_bullet",
+  "name": "Sharp Bullet",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_shmoop",
+  "name": "Shmoop",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_sifds_relic",
+  "name": "Sifd's Relic",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_silver_bullet",
+  "name": "Silver Bullet",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_small_fish",
+  "name": "Small Fish",
+  "kind": "item",
+  "tier": 1,
+  "dlc": true
+ },
+ {
+  "id": "item_small_magazine",
+  "name": "Small Magazine",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_snail",
+  "name": "Snail",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_snake",
+  "name": "Snake",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_snowball",
+  "name": "Snowball",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_spicy_sauce",
+  "name": "Spicy Sauce",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_spider",
+  "name": "Spider",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_spyglass",
+  "name": "Spyglass",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_starfish",
+  "name": "Starfish",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_statue",
+  "name": "Statue",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_strange_book",
+  "name": "Strange Book",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_stone_skin",
+  "name": "Stone Skin",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_sunglasses",
+  "name": "Sunglasses",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_sunken_bell",
+  "name": "Sunken Bell",
+  "kind": "item",
+  "tier": 3,
+  "dlc": true
+ },
+ {
+  "id": "item_tardigrade",
+  "name": "Tardigrade",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_tentacle",
+  "name": "Tentacle",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_terrified_onion",
+  "name": "Terrified Onion",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_toolbox",
+  "name": "Toolbox",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_torture",
+  "name": "Torture",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_toxic_sludge",
+  "name": "Toxic Sludge",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_tractor",
+  "name": "Tractor",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_treasure_map",
+  "name": "Treasure Map",
+  "kind": "item",
+  "tier": 2,
+  "dlc": true
+ },
+ {
+  "id": "item_tree",
+  "name": "Tree",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_triangle_of_power",
+  "name": "Triangle of Power",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_turret",
+  "name": "Turret",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_tyler",
+  "name": "Tyler",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_ugly_tooth",
+  "name": "Ugly Tooth",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_vigilante_ring",
+  "name": "Vigilante Ring",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_wandering_bot",
+  "name": "Wandering Bot",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_warrior_helmet",
+  "name": "Warrior Helmet",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_weird_food",
+  "name": "Weird Food",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_weird_ghost",
+  "name": "Weird Ghost",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_wheat",
+  "name": "Wheat",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_wheelbarrow",
+  "name": "Wheelbarrow",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_whetstone",
+  "name": "Whetstone",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_whistle",
+  "name": "Whistle",
+  "kind": "item",
+  "tier": 1,
+  "dlc": true
+ },
+ {
+  "id": "item_white_flag",
+  "name": "White Flag",
+  "kind": "item",
+  "tier": 2,
+  "dlc": false
+ },
+ {
+  "id": "item_will_o_wisp",
+  "name": "Will-o'-Wisp",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_wings",
+  "name": "Wings",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_wisdom",
+  "name": "Wisdom",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_wolf_helmet",
+  "name": "Wolf Helmet",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_ban_system",
+  "name": "Ban System",
+  "kind": "item",
+  "tier": 1,
+  "dlc": false
+ },
+ {
+  "id": "item_broken_hourglass",
+  "name": "Broken Hourglass",
+  "kind": "item",
+  "tier": 4,
+  "dlc": false
+ },
+ {
+  "id": "item_broken_mirror",
+  "name": "Broken Mirror",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "item_resting_goldfish",
+  "name": "Resting Goldfish",
+  "kind": "item",
+  "tier": 3,
+  "dlc": false
+ },
+ {
+  "id": "weapon_anchor",
+  "name": "Anchor",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Naval",
+   "Heavy"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Curse"
+  ]
+ },
+ {
+  "id": "weapon_blunderbuss",
+  "name": "Blunderbuss",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Naval",
+   "Gun"
+  ],
+  "dlc": true,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_brick",
+  "name": "Brick",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Blunt"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_cacti_club",
+  "name": "Cacti Club",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive",
+   "Heavy"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_cactus_mace",
+  "name": "Cactus Mace",
+  "kind": "weapon",
+  "rarity": null,
+  "classes": [],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": []
+ },
+ {
+  "id": "weapon_captains_sword",
+  "name": "Captain's Sword",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Naval",
+   "Blade"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Curse"
+  ]
+ },
+ {
+  "id": "weapon_chain_gun",
+  "name": "Chain Gun",
+  "kind": "weapon",
+  "rarity": "Tier 4",
+  "classes": [
+   "Legendary",
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_chainsaw",
+  "name": "Chainsaw",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Blade",
+   "Tool"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_chopper",
+  "name": "Chopper",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Blade"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_circular_saw",
+  "name": "Circular Saw",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Blade",
+   "Medical"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_claw",
+  "name": "Claw",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Unarmed",
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_crossbow",
+  "name": "Crossbow",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Precise",
+   "Medieval"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_dex_troyer",
+  "name": "DEX-troyer",
+  "kind": "weapon",
+  "rarity": "Tier 4",
+  "classes": [
+   "Legendary",
+   "Explosive"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_double_barrel_shotgun",
+  "name": "Double Barrel Shotgun",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_drill",
+  "name": "Drill",
+  "kind": "weapon",
+  "rarity": "Tier 4",
+  "classes": [
+   "Legendary",
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_excalibur",
+  "name": "Excalibur",
+  "kind": "weapon",
+  "rarity": "Tier 4",
+  "classes": [
+   "Legendary",
+   "Blade"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_fireball",
+  "name": "Fireball",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Explosive",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_fist",
+  "name": "Fist",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Unarmed"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_flamethrower",
+  "name": "Flamethrower",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Elemental",
+   "Heavy"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_flaming_brass_knuckles",
+  "name": "Flaming Brass Knuckles",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Unarmed",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_flute",
+  "name": "Flute",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Musical"
+  ],
+  "dlc": true,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_gatling_laser",
+  "name": "Gatling Laser",
+  "kind": "weapon",
+  "rarity": "Tier 4",
+  "classes": [
+   "Legendary",
+   "Heavy"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_ghost_axe",
+  "name": "Ghost Axe",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Ethereal"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_ghost_flint",
+  "name": "Ghost Flint",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Ethereal"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_ghost_scepter",
+  "name": "Ghost Scepter",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Ethereal"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_grenade_launcher",
+  "name": "Grenade Launcher",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Heavy",
+   "Explosive"
+  ],
+  "dlc": true,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_hammer",
+  "name": "Hammer",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Blunt",
+   "Heavy"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_hand",
+  "name": "Hand",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Unarmed",
+   "Support"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_harpoon_gun",
+  "name": "Harpoon Gun",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Naval",
+   "Gun"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_hatchet",
+  "name": "Hatchet",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_hiking_pole",
+  "name": "Hiking Pole",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Support"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_icicle",
+  "name": "Icicle",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Precise",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_javelin",
+  "name": "Javelin",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_jousting_lance",
+  "name": "Jousting Lance",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Medieval"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_knife",
+  "name": "Knife",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_laser_gun",
+  "name": "Laser Gun",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_lightning_shiv",
+  "name": "Lightning Shiv",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Precise",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_lute",
+  "name": "Lute",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Musical",
+   "Support"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_mace",
+  "name": "Mace",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Heavy",
+   "Medieval"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_medical_gun",
+  "name": "Medical Gun",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Medical",
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_minigun",
+  "name": "Minigun",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Heavy",
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_nuclear_launcher",
+  "name": "Nuclear Launcher",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Heavy",
+   "Explosive"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged",
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_obliterator",
+  "name": "Obliterator",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Gun",
+   "Heavy"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_particle_accelerator",
+  "name": "Particle Accelerator",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Heavy",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Elemental",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_pistol",
+  "name": "Pistol",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_plank",
+  "name": "Plank",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Explosive",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Elemental",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_plasma_sledge",
+  "name": "Plasma Sledge",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Elemental",
+   "Explosive"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_potato_thrower",
+  "name": "Potato Thrower",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Support"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_power_fist",
+  "name": "Power Fist",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Unarmed",
+   "Explosive"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_pruner",
+  "name": "Pruner",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Support"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_quarterstaff",
+  "name": "Quarterstaff",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive",
+   "Medieval"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_revolver",
+  "name": "Revolver",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_rock",
+  "name": "Rock",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive",
+   "Blunt"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_rocket_launcher",
+  "name": "Rocket Launcher",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Heavy",
+   "Explosive"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_smg",
+  "name": "SMG",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Gun"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_scissors",
+  "name": "Scissors",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Medical",
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_screwdriver",
+  "name": "Screwdriver",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Tool"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_scythe",
+  "name": "Scythe",
+  "kind": "weapon",
+  "rarity": "Tier 4",
+  "classes": [
+   "Legendary",
+   "Ethereal"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_sharp_tooth",
+  "name": "Sharp Tooth",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive",
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_shredder",
+  "name": "Shredder",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Gun",
+   "Explosive"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_shuriken",
+  "name": "Shuriken",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_sickle",
+  "name": "Sickle",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Support"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_slingshot",
+  "name": "Slingshot",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_sniper_gun",
+  "name": "Sniper Gun",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Gun",
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Ranged"
+  ]
+ },
+ {
+  "id": "weapon_spear",
+  "name": "Spear",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_spiky_shield",
+  "name": "Spiky Shield",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Medieval",
+   "Blunt"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": []
+ },
+ {
+  "id": "weapon_spoon",
+  "name": "Spoon",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Blunt"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_stick",
+  "name": "Stick",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_sword",
+  "name": "Sword",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Blade",
+   "Medieval"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_taser",
+  "name": "Taser",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Support",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_thief_dagger",
+  "name": "Thief Dagger",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Precise"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_thunder_sword",
+  "name": "Thunder Sword",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Blade",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_torch",
+  "name": "Torch",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Primitive",
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_trident",
+  "name": "Trident",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Naval",
+   "Medieval"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Curse"
+  ]
+ },
+ {
+  "id": "weapon_vorpal_sword",
+  "name": "Vorpal Sword",
+  "kind": "weapon",
+  "rarity": "Tier 2",
+  "classes": [
+   "Blade",
+   "Medieval"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "weapon_wand",
+  "name": "Wand",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Elemental"
+  ],
+  "dlc": false,
+  "wtype": "ranged",
+  "damage_types": [
+   "Elemental"
+  ]
+ },
+ {
+  "id": "weapon_war_hammer",
+  "name": "War Hammer",
+  "kind": "weapon",
+  "rarity": "Tier 3",
+  "classes": [
+   "Blunt",
+   "Heavy"
+  ],
+  "dlc": true,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee",
+   "Engineering"
+  ]
+ },
+ {
+  "id": "weapon_wrench",
+  "name": "Wrench",
+  "kind": "weapon",
+  "rarity": "Tier 1",
+  "classes": [
+   "Tool"
+  ],
+  "dlc": false,
+  "wtype": "melee",
+  "damage_types": [
+   "Melee"
+  ]
+ },
+ {
+  "id": "character_apprentice",
+  "name": "Apprentice",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_arms_dealer",
+  "name": "Arms Dealer",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_artificer",
+  "name": "Artificer",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_baby",
+  "name": "Baby",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_brave",
+  "name": "Brave",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_brawler",
+  "name": "Brawler",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_buccaneer",
+  "name": "Buccaneer",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_builder",
+  "name": "Builder",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_bull",
+  "name": "Bull",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_captain",
+  "name": "Captain",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_chef",
+  "name": "Chef",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_chunky",
+  "name": "Chunky",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_crazy",
+  "name": "Crazy",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_creature",
+  "name": "Creature",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_cryptid",
+  "name": "Cryptid",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_curious",
+  "name": "Curious",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_cyborg",
+  "name": "Cyborg",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_demon",
+  "name": "Demon",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_diver",
+  "name": "Diver",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_doctor",
+  "name": "Doctor",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_druid",
+  "name": "Druid",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_dwarf",
+  "name": "Dwarf",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_engineer",
+  "name": "Engineer",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_entrepreneur",
+  "name": "Entrepreneur",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_explorer",
+  "name": "Explorer",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_farmer",
+  "name": "Farmer",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_fisherman",
+  "name": "Fisherman",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_gangster",
+  "name": "Gangster",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_generalist",
+  "name": "Generalist",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_ghost",
+  "name": "Ghost",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_gladiator",
+  "name": "Gladiator",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_glutton",
+  "name": "Glutton",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_golem",
+  "name": "Golem",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_hiker",
+  "name": "Hiker",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_hunter",
+  "name": "Hunter",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_jack",
+  "name": "Jack",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_king",
+  "name": "King",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_knight",
+  "name": "Knight",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_lich",
+  "name": "Lich",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_loud",
+  "name": "Loud",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_lucky",
+  "name": "Lucky",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_mage",
+  "name": "Mage",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_masochist",
+  "name": "Masochist",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_multitasker",
+  "name": "Multitasker",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_mutant",
+  "name": "Mutant",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_ogre",
+  "name": "Ogre",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_old",
+  "name": "Old",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_one_armed",
+  "name": "One Armed",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_pacifist",
+  "name": "Pacifist",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_ranger",
+  "name": "Ranger",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_renegade",
+  "name": "Renegade",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_romantic",
+  "name": "Romantic",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_sailor",
+  "name": "Sailor",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_saver",
+  "name": "Saver",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_sick",
+  "name": "Sick",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_soldier",
+  "name": "Soldier",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_speedy",
+  "name": "Speedy",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_streamer",
+  "name": "Streamer",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_technomage",
+  "name": "Technomage",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_vagabond",
+  "name": "Vagabond",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_vampire",
+  "name": "Vampire",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_well_rounded",
+  "name": "Well Rounded",
+  "kind": "character",
+  "dlc": false
+ },
+ {
+  "id": "character_wiki_editing",
+  "name": "Wiki Editing",
+  "kind": "character",
+  "dlc": true
+ },
+ {
+  "id": "character_wildling",
+  "name": "Wildling",
+  "kind": "character",
+  "dlc": false
+ }
+]

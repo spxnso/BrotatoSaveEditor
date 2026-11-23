@@ -1,0 +1,56 @@
+name: Build & Release
+
+on:
+  push:
+    branches: [main]
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+  build:
+    name: Build executable (${{ matrix.os }})
+    needs: test
+    if: github.event_name != 'push'
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install tkinter (Linux)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-tk
+      - name: Install PyInstaller
+        run: pip install -r requirements-build.txt
+      - name: Build with PyInstaller
+        run: pyinstaller --clean --noconfirm brotato_save_editor.spec
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: BrotatoSaveEditor-${{ runner.os }}
+          path: dist/*
+      - name: Attach executable to the release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*
