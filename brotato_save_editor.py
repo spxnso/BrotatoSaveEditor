@@ -21,15 +21,7 @@ from tkinter import filedialog, messagebox, simpledialog, ttk
 import brotato_model as model
 
 APP_TITLE = "Brotato Save Editor"
-PLACEHOLDER_PNG = (
-    "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABRElEQVR4nO2aPW6DQBBGP3stmQvQ0Nm1"
-    "cwHKHMCRaEG5gJXz2K2Re8q4RpGLUAdRk5ITUJEKy8KsiR1NZhfNa9mfeczuIhgmvv/cwGKm3AH8ldlQ"
-    "gyh6/Y84tBwO8c3rE90S4g68i06kV+Ay+KE7QM1QLFcCbQfuwLvo4pr+ppEJtDF1l7b1p9BZwOS739KXhf"
-    "FkwFZEgBsR4EYEuBEBbqwXGHwje5TFYon1+gVKKRyP78jzL5J5yASCIEAc71HXNTabN/sE0jRFVVVQSsFx"
-    "lTT0O2BLPsEAHieh7L8ppqGfhOvVk84nT7IxicXcF0XRVGQjU8ukCQJmobu4x+5QBiGpOOTC+x2W9LxrX8"
-    "SiwA3IsCNCHAjAtyIADdnAV0FxCT6ahjjyQBgdhZ0FaTxlVn7OprAXYXuS7hFHv7VwBasP4V+AIwPa40VX9"
-    "ynAAAAAElFTkSuQmCC"
-)
+PLACEHOLDER_PNG = "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABRElEQVR4nO2aPW6DQBBGP3stmQvQ0Nm1cwHKHMCRaEG5gJXz2K2Re8q4RpGLUAdRk5ITUJEKy8KsiR1NZhfNa9mfeczuIhgmvv/cwGKm3AH8ldlQgyh6/Y84tBwO8c3rE90S4g68i06kV+Ay+KE7QM1QLFcCbQfuwLvo4pr+ppEJtDF1l7b1p9BZwOS739KXhfFkwFZEgBsR4EYEuBEBbqwXGHwje5TFYon1+gVKKRyP78jzL5J5yASCIEAc71HXNTabN/sE0jRFVVVQSsFx5lTT0O2BLPsEAHieh7L8ppqGfhOvVk84nT7IxicXcF0XRVGQjU8ukCQJmobu4x+5QBiGpOOTC+x2W9LxrX8SiwA3IsCNCHAjAtyIADdnAV0FxCT6ahjjyQBgdhZ0FaTxlVn7OprAXYXuS7hFHv7VwBasP4V+AIwPa40VX9ynAAAAAElFTkSuQmCC"
 
 
 # --------------------------------------------------------------------------- helpers
@@ -40,7 +32,12 @@ class IconCache:
 
     def __init__(self):
         self._cache = {}
-        self.placeholder = tk.PhotoImage(data=PLACEHOLDER_PNG)
+        try:
+            self.placeholder = tk.PhotoImage(data=PLACEHOLDER_PNG)
+        except tk.TclError:
+            self.placeholder = tk.PhotoImage(width=48, height=48)
+            self.placeholder.put("#3a3a42", to=(0, 0, 48, 48))
+            self.placeholder.put("#96969e", to=(3, 3, 44, 44))
 
     def get(self, key):
         if key in self._cache:
